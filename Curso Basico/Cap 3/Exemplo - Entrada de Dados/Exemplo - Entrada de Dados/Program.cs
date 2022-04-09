@@ -21,8 +21,8 @@ namespace curso {
             Console.WriteLine(y);
             Console.WriteLine(z);
             Console.Write(a);
-            Console.Write(b);
-            Console.Write(c);
+            Console.Write(" " + b);
+            Console.WriteLine(" " +c);
         }
     }
 }

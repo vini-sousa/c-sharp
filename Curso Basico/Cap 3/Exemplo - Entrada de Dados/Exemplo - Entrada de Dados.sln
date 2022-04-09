@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo - Entrada de Dados"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo - Saida de Dados", "..\Exemplo - Saida de Dados\Exemplo - Saida de Dados\Exemplo - Saida de Dados.csproj", "{0AB0ADC5-8D5E-4C2D-AB1C-4B2CA80A468B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo-1", "..\Primeiro Projeto\Exemplo-1\Exemplo-1\Exemplo-1.csproj", "{B11576B5-4F68-4A3E-9489-F5D3428FF448}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0AB0ADC5-8D5E-4C2D-AB1C-4B2CA80A468B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AB0ADC5-8D5E-4C2D-AB1C-4B2CA80A468B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AB0ADC5-8D5E-4C2D-AB1C-4B2CA80A468B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B11576B5-4F68-4A3E-9489-F5D3428FF448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11576B5-4F68-4A3E-9489-F5D3428FF448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11576B5-4F68-4A3E-9489-F5D3428FF448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11576B5-4F68-4A3E-9489-F5D3428FF448}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
