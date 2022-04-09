@@ -1,0 +1,3 @@
+Identação automática - CTRL + K + D
+Fonte - CTRL + Mouse Scroll
+Rodar o projet - CTRL + F5
