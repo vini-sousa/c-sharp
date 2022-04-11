@@ -23,7 +23,6 @@ namespace uri_1019_tempo {
             tempo = tempo - (minutos * 60);
 
             Console.WriteLine(horas + ":" + minutos + ":" + tempo);
-
         }
     }
 }

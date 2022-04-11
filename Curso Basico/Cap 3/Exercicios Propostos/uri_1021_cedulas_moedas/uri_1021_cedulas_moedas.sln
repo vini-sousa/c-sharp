@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uri_1021_cedulas_moedas", "uri_1021_cedulas_moedas.csproj", "{B084B684-F5DD-43E2-81FB-61CA9B53FBE1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "uri_1018", "..\uri_1018_cedulas\uri_1018.csproj", "{06FF77A4-32E8-4805-9364-8F44BC10F808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B084B684-F5DD-43E2-81FB-61CA9B53FBE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B084B684-F5DD-43E2-81FB-61CA9B53FBE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B084B684-F5DD-43E2-81FB-61CA9B53FBE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B084B684-F5DD-43E2-81FB-61CA9B53FBE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06FF77A4-32E8-4805-9364-8F44BC10F808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FF77A4-32E8-4805-9364-8F44BC10F808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FF77A4-32E8-4805-9364-8F44BC10F808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FF77A4-32E8-4805-9364-8F44BC10F808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0F717B3-FBE0-482C-A0D8-6D90EB6EF2F8}
+	EndGlobalSection
+EndGlobal
